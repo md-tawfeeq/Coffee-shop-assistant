@@ -1,0 +1,14 @@
+env.sh
+*.json
+.env
+.terraform/
+__pycache__/
+node_modules/
+venv/
+.venv/
+env/
+lib/
+lib64/
+dist/
+build/
+*.egg-info/
